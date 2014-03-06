@@ -1,0 +1,10 @@
+/* Module */
+.module {
+  padding: 8px;
+  background: black; 
+}
+.module .module-title {
+    font-size: 24;
+    color: white;
+    line-height: 1.5;
+    margin-bottom: 12px; }

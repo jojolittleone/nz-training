@@ -1,0 +1,9 @@
+@mixin heading($font_size, $colour){
+
+	font-size: $font_size;
+	color: $colour;
+	line-height: 1.5;
+	margin-bottom: $base_margin;
+	font-weight: bold;
+
+}

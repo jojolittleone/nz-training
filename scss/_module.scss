@@ -1,0 +1,11 @@
+/* Module */
+
+.module{
+	padding: $base_padding;
+	background: $secondary_branding;
+	margin: 20px;
+
+	.module-title{
+		@include heading(24, $main_branding);
+	}
+}
