@@ -4,7 +4,7 @@
 	padding: $base_padding;
 	background: $secondary_branding;
 	margin: 20px;
-	padding: 5px;
+	padding: 15px;
 
 	.module-title{
 		@include heading(24, $main_branding);
