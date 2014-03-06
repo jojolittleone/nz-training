@@ -8,5 +8,6 @@
 
 	.module-title{
 		@include heading(24, $main_branding);
+		color: #555;
 	}
 }
